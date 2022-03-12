@@ -1,5 +1,6 @@
-# CvGenerator.Net
-[See Online Version](https://cv-generator-net-aliaa.fandogh.cloud/)
+## About
+A cv generator that creates a cv based of a persons data.
+
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/aliaa67/cv_generator_net)
 
@@ -17,8 +18,7 @@ A Dockerized Asp.Net Core 3.1 MVC project to generate CV from user's information
 
 ## Contribution
 
-Any kinds of contributions are welcomed!
-If you want to design more CV templates, you can see the existing templates in "CVTemplates" folder, create a folder in it and create an HTML file named "index.html", and use variables place-holders in your template.
+Any kinds of contributions are welcomed.
 
 
 ## License
