@@ -23,4 +23,4 @@ Any kinds of contributions are welcomed.
 
 ## License
 
-[MIT](LICENSE.txt)
+[MIT]
